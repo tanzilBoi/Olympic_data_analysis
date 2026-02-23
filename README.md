@@ -94,9 +94,7 @@ The final Gold Layer dataset can be used to analyze:
 
 ---
 
-## 👨‍💻 Author
-
-Your Name
+## 👨‍💻 Want to connect?
 
 LinkedIn: https://linkedin.com/in/tanzil-ameen-23370521a/
 
