@@ -70,17 +70,16 @@ Gold Layer → Analytics Ready Data
 ## 📂 Project Structure
 
 ```
-olympic-data-engineering-project/
+olympic-data-analysis/
 
-notebooks/
-etl_pipeline.ipynb
 
-data/
-raw/
-processed/
 
-images/
-architecture.png
+Olympic_2021/
+RawData/
+TransformedData/
+architecture.png/
+ETL-workspace (1).dbc/
+
 ```
 
 ---
