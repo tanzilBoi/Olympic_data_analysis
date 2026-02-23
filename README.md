@@ -11,7 +11,7 @@ The goal of this project is to simulate a real-world ETL pipeline for data inges
 ## 🏗️ Architecture
 This project follows Medallion Architecture (Bronze, Silver, Gold):
 
-!(Olympic_2021/architecture.png)
+![Architecture Diagram](Olympic_2021/architecture.png)
 
 Bronze Layer → Raw Data Ingestion  
 Silver Layer → Cleaned and Transformed Data  
